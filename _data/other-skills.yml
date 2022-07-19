@@ -1,6 +1,6 @@
 - name: Xilinx Vivado
   percentage: 80
-  color: info
+  color: 
 
 - name: Lattice Diamond
   percentage: 90
