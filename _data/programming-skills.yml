@@ -13,7 +13,3 @@
 - name: Python
   percentage: 75
   color: secondary
-
-- name: MATLAB
-  percentage: 70
-  color: secondary

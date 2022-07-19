@@ -1,7 +1,11 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: Xilinx Vivado
+  percentage: 80
   color: info
 
-- name: Adobe Illustrator
+- name: Lattice Diamond
   percentage: 90
   color: success
+
+- name: MATLAB
+  percentage: 70
+  color: danger
