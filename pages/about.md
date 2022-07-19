@@ -16,9 +16,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </div>
 
 <div class="row">
-{% include about/timeline.html title="Professional Experience" source=site.data.timeline-work %}
-</div>
-
-<div class="row">
-{% include about/timeline.html title="Education" source=site.data.timeline-education %}
+{% include about/timeline.html%}
 </div>
