@@ -1,0 +1,13 @@
+- title: HW and FW Design Engineer
+  from: November 2020
+  to: Present
+  description: Design of digital logic using VHDL for Lattice Semiconductor FPGAs using
+               Lattice Diamond and Modelsim. Development of bare-metal firmware for PIC 
+               microcontrollers (PIC16, PIC18, PIC32) in C using MPLAB X. Design of testing
+               setups for industrial measuring amplifiers using Siemens PLCs. 
+
+- title: PLC Programmer
+  from: September 2020
+  to: November 2020
+  description: Automation of industrial plants using Siemens and Rockwell PLCs.
+               Design of SCADA interfaces.
