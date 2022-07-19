@@ -19,9 +19,9 @@ I'm a good team worker, very result-driven and motivated by new challenges. I'm 
 </div>
 
 <div class="row">
-{% include about/timeline.html title="Professional Experience" source=site.data.timeline-work %}%}
+{% include about/timeline.html title="Professional Experience" source=site.data.timeline-work %}
 </div>
 
 <div class="row">
-{% include about/timeline.html title="Education" source=site.data.timeline-education %}%}
+{% include about/timeline.html title="Education" source=site.data.timeline-education %}
 </div>
